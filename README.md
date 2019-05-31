@@ -12,14 +12,14 @@ Microsoft recently announced the Azure Cognitive Service, Personalizer, aimed at
 In this workshop you will learn the theory behind contextual bandits and how this applies to content personalization. We will walk you through setting up the service, writing your first application, and optimizing the policy using offline optimization.
 
 ## Schedule
-Time|Session
------|-----
-2PM - 3PM | Introduction to reinforcement learning and contextual bandits
-3PM - 4PM | Overview of Azure Cognitive Services Personalizer
-4PM - 4:30PM | _Break_
-4:30PM - 5:30PM | Hands on: Setting up SDK and writing first application
-5:30PM - 6PM | Hands on: Counterfactual evaluation and offline policy optimization
-6PM - 6:30PM | Wrap-up and Q&A
+|Time | Schedule|
+| ---- | ---- |
+|2PM - 3PM | Introduction to reinforcement learning and contextual bandits|
+|3PM - 4PM | Overview of Azure Cognitive Services Personalizer|
+|4PM - 4:30PM | _Break_|
+|4:30PM - 5:30PM | Hands on: Setting up SDK and writing first application|
+|5:30PM - 6PM | Hands on: Counterfactual evaluation and offline policy optimization|
+|6PM - 6:30PM | Wrap-up and Q&A|
 
 ## Preparation
 - [Create free Azure/Microsoft account](https://azure.microsoft.com/en-us/free/)
