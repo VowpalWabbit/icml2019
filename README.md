@@ -14,13 +14,9 @@ In this workshop you will learn the theory behind contextual bandits and how thi
 ## Schedule
 
 <table>
-   <tr>
-    <th>Time<br></th>
-    <th>Schedule</th>
-  </tr>
   <tr>
-    <th>2PM - 3PM<br></th>
-    <th>Introduction to reinforcement learning and contextual bandits</th>
+    <td>2PM - 3PM</td>
+    <td>Introduction to reinforcement learning and contextual bandits</td>
   </tr>
   <tr>
     <td>3PM - 4PM</td>
