@@ -18,7 +18,7 @@ In this workshop you will learn the theory behind contextual bandits and how thi
 | 3PM - 4PM   | Overview of Azure Cognitive Services Personalizer |
 | 4PM - 4:30PM | _Break_ |
 | 4:30PM - 5:30PM | Hands on: Setting up SDK and writing first application |
-| 5:30PM - 6:30PM | Hands on: Counterfactual evaluation and offline policy optimization |
+| 5:30PM - 6PM | Hands on: Counterfactual evaluation and offline policy optimization |
 | 6PM - 6:30PM | Wrap-up and Q&A |
 
 ## Preparation
