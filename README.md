@@ -40,15 +40,18 @@ In this workshop you will learn the theory behind contextual bandits and how thi
   </tr>
 </table>
 
-## Preparation
-- [Create free Azure/Microsoft account](https://azure.microsoft.com/en-us/free/)
-- [Install Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
-- Provision free instance of Personalizer
-
-## Workshop instructions
-- [Download client wheel package](https://icmldemo.blob.core.windows.net/dependencies/azure_cognitiveservices_personalizer-0.2.0-py2.py3-none-any.whl?sp=r&st=2019-06-07T15:25:36Z&se=2019-06-16T23:25:36Z&spr=https&sv=2018-03-28&sig=ONuq1MVNAj0x5nl89pZjz3H6k3wrky21rii3ZNTtFyY%3D&sr=b)
-- ```pip install azure_cognitiveservices_personalizer-0.2.0-py2.py3-none-any.whl```
-- ```python demo.py```
+## Workshop Instructions
+1. [Create free Azure/Microsoft account](https://azure.microsoft.com/en-us/free/)
+2. Provision free instance of Personalizer
+    1. Go to [Azure Portal](https://azure.portal.com)
+    2. Search for "Cogitive Services"
+    3. On Cognitive Services page click "Add"
+    4. Search for "Personalizer (Preview)" and click "Create"
+3. Install Python Client
+    1. [Download client wheel package](https://icmldemo.blob.core.windows.net/dependencies/azure_cognitiveservices_personalizer-0.2.0-py2.py3-none-any.whl?sp=r&st=2019-06-07T15:25:36Z&se=2019-06-16T23:25:36Z&spr=https&sv=2018-03-28&sig=ONuq1MVNAj0x5nl89pZjz3H6k3wrky21rii3ZNTtFyY%3D&sr=b)
+    2. ```pip install azure_cognitiveservices_personalizer-0.2.0-py2.py3-none-any.whl```
+4. Paste your key into [line 34 of ./demo/demo.py](https://github.com/VowpalWabbit/icml2019/blob/master/demo/demo.py#L34)
+5. run `python ./demo/demo.py`
 
 ## Next steps
 - [Personalizer](https://azure.microsoft.com/en-us/services/cognitive-services/personalizer/)
@@ -58,3 +61,5 @@ In this workshop you will learn the theory behind contextual bandits and how thi
 ## Presenters
 - John Langford
 - Rodrigo Kumpera
+- Alexey Taymanov
+- Cheng Tan
