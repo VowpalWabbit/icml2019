@@ -46,6 +46,11 @@ In this workshop you will learn the theory behind contextual bandits and how thi
 - Provision free instance of Personalizer
 - [Download and install client wheel package](https://icmldemo.blob.core.windows.net/dependencies/azure_cognitiveservices_personalizer-0.2.0-py2.py3-none-any.whl?sp=r&st=2019-06-07T15:25:36Z&se=2019-06-16T23:25:36Z&spr=https&sv=2018-03-28&sig=ONuq1MVNAj0x5nl89pZjz3H6k3wrky21rii3ZNTtFyY%3D&sr=b)
 
+## Workshop instructions
+- [Download client wheel package](https://icmldemo.blob.core.windows.net/dependencies/azure_cognitiveservices_personalizer-0.2.0-py2.py3-none-any.whl?sp=r&st=2019-06-07T15:25:36Z&se=2019-06-16T23:25:36Z&spr=https&sv=2018-03-28&sig=ONuq1MVNAj0x5nl89pZjz3H6k3wrky21rii3ZNTtFyY%3D&sr=b)
+- ```pip install azure_cognitiveservices_personalizer-0.2.0-py2.py3-none-any.whl```
+- ```python demo.py```
+
 ## Next steps
 - [Personalizer](https://azure.microsoft.com/en-us/services/cognitive-services/personalizer/)
 - [Personalizer docs](https://docs.microsoft.com/en-us/azure/cognitive-services/personalizer/)
