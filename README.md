@@ -43,7 +43,7 @@ In this workshop you will learn the theory behind contextual bandits and how thi
 ## Workshop Instructions
 1. [Create free Azure/Microsoft account](https://azure.microsoft.com/en-us/free/)
 2. Provision free instance of Personalizer
-    1. Go to [Azure Portal](https://azure.portal.com)
+    1. Go to [Azure Portal](https://portal.azure.com)
     2. Search for "Cogitive Services"
     3. On Cognitive Services page click "Add"
     4. Search for "Personalizer (Preview)" and click "Create"
