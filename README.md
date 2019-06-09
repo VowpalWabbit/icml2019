@@ -20,7 +20,7 @@ In this workshop you will learn the theory behind contextual bandits and how thi
   </tr>
   <tr>
     <td>3PM - 4PM</td>
-    <td>Overview of Azure Cognitive Services Personalizer</td>
+    <td>Overview of Azure Cognitive Services Personalizer <a href="https://aka.ms/icml2019-personalizer-slides">(Slides)</a></td>
   </tr>
   <tr>
     <td>4PM - 4:30PM</td>
