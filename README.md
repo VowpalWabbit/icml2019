@@ -19,11 +19,11 @@ In this workshop you will learn the theory behind contextual bandits and how thi
     <td>Introduction to reinforcement learning and contextual bandits <a href="https://aka.ms/icml2019-rl-slides">(Slides)</a></td>
   </tr>
   <tr>
-    <td>3PM - 4PM</td>
+    <td>3PM - 3:30PM</td>
     <td>Overview of Azure Cognitive Services Personalizer <a href="https://aka.ms/icml2019-personalizer-slides">(Slides)</a></td>
   </tr>
   <tr>
-    <td>4PM - 4:30PM</td>
+    <td>3:30PM - 4PM</td>
     <td><span style="font-style:italic">Break</span></td>
   </tr>
   <tr>
