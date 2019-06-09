@@ -30,8 +30,9 @@ def run(user_preference, actions, client, duration_sec):
 
 
 def main():
-    client = PersonalizerClient(endpoint="https://westus2.api.cognitive.microsoft.com/",
-        credentials=CognitiveServicesCredentials(""))   # Put your credentials here
+
+    client = PersonalizerClient(endpoint="", # Put your endpoint here
+        credentials=CognitiveServicesCredentials(""))    # Put your credentials here
 
     #Available content
     actions=[
@@ -54,14 +55,19 @@ def main():
     Monday = {'day': 'Monday'}
     Sunday = {'day': 'Sunday'}
 
+    context = [Tom, Monday]
 
     request=models.RankRequest(
-        context_features=[Tom, Monday],
+        context_features=context,
         actions=actions
     )
 
-    # Since we are doing cold start and there is no model, all probabilities are the same
     response=client.rank(request)
+    # Show content to user, evaluate and provide reward back to service
+    reward = 1.0
+    client.events.reward(event_id=response.event_id, value=reward)
+
+    # Since we are doing cold start and there is no model, all probabilities are the same
     for action in response.ranking:
         print(action.id + ': ' + str(action.probability))
 
