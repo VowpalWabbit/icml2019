@@ -50,7 +50,8 @@ In this workshop you will learn the theory behind contextual bandits and how thi
 3. Install Python Client
     1. [Download client wheel package](https://icmldemo.blob.core.windows.net/dependencies/azure_cognitiveservices_personalizer-0.2.0-py2.py3-none-any.whl?sp=r&st=2019-06-07T15:25:36Z&se=2019-06-16T23:25:36Z&spr=https&sv=2018-03-28&sig=ONuq1MVNAj0x5nl89pZjz3H6k3wrky21rii3ZNTtFyY%3D&sr=b)
     2. ```pip install azure_cognitiveservices_personalizer-0.2.0-py2.py3-none-any.whl```
-4. Paste your key into [line 34 of ./demo/demo.py](https://github.com/VowpalWabbit/icml2019/blob/master/demo/demo.py#L34)
+3. Paste your endpoint into [line 34 of ./demo/demo.py](https://github.com/VowpalWabbit/icml2019/blob/master/demo/demo.py#L34)
+4. Paste your key into [line 35 of ./demo/demo.py](https://github.com/VowpalWabbit/icml2019/blob/master/demo/demo.py#L35)
 5. run `python ./demo/demo.py`
 
 ## Next steps
