@@ -16,7 +16,7 @@ In this workshop you will learn the theory behind contextual bandits and how thi
 <table>
   <tr>
     <td>2PM - 3PM</td>
-    <td>Introduction to reinforcement learning and contextual bandits</td>
+    <td>Introduction to reinforcement learning and contextual bandits <a href="https://aka.ms/icml2019-rl-slides">(Slides)</a></td>
   </tr>
   <tr>
     <td>3PM - 4PM</td>
@@ -28,7 +28,7 @@ In this workshop you will learn the theory behind contextual bandits and how thi
   </tr>
   <tr>
     <td>4:30PM - 5:30PM</td>
-    <td>Hands on: Setting up SDK and writing first application</td>
+    <td>Hands on: Setting up SDK and writing first application <a href="https://aka.ms/icml2019-demo-slides">(Slides)</td>
   </tr>
   <tr>
     <td>5:30PM - 6PM</td>
